@@ -2,6 +2,6 @@ class GameManager
 {
     static void Main(string[] args)
     {
-        System.Console.WriteLine("MainBranch");
+        System.Console.WriteLine("TestBranch");
     }
 }
